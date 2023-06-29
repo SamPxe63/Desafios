@@ -11,6 +11,6 @@ M (Monetary): Valor do ticket médio gasto pelo cliente
 
 Onde ticket médio = média do total gasto por pedido para cada cliente.
 
-  Para isso, vocês receberam uma base de dados (arquivo csv) e devem construir um
-código em Python que gera um output também csv, porém contendo apenas a
+  Para isso, foi disponibilizado uma base de dados e devem construir um
+código em Python que gera um output, porém contendo a
 identificação do cliente e métricas RFM.
