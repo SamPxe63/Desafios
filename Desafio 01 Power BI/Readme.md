@@ -1,4 +1,4 @@
-#Desafio Power BI
+# Desafio Power BI
   Neste desafio, foi contruido um painel gerencial para um e-commerce que almeja estudar as suas vendas e assim, traçar a melhor estratégia para alavancar seus resultados. Foram usadas duas bases de dados,
 uma com dados das vendas e outra com informações dos clientes. Com isso, foram criadas duas páginas para que os analistas possam visualizar as métricas.
 
